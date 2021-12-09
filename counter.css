@@ -1,0 +1,31 @@
+body{
+    background-color: #E8E8CC;
+    text-align: center;
+}
+
+.counter-minus{
+    width: 50px;
+    margin: 20px auto;
+    color: #0F2C67;
+    border: crimson;
+    text-align: center;
+    font-weight: 1000;
+}
+
+.counter-plus{
+    width: 50px;
+    margin: 20px auto;
+    color: #0F2C67;
+    border: crimson;
+    text-align: center;
+    font-weight: 1000;
+}
+
+.reset{
+    width: 50px;
+    margin: 20px auto;
+    color: #0F2C67;
+    border: crimson;
+    text-align: center;
+    font-weight: 1000;
+}
